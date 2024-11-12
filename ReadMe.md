@@ -1,7 +1,7 @@
 # TARig: Adaptive template-aware neural rigging for humanoid characters
 
 ```bash
-sh run.sh
+sh run_tarig.sh
 ```
 <img src="img/predicted.PNG" alt="image" width="300"/>
 
@@ -11,7 +11,7 @@ Please email to us if you need the annotated dataset of TARig.
 1. Get a 3D character from 3DGen such as [CLAY](https://github.com/CLAY-3D/OpenCLAY) or 3D Asset Website such as [Mixamo](https://www.mixamo.com/)
 
 2. Convert the character to be .obj file
-3. sh run.sh
+3. sh run_tarig.sh
 4. The skinning weights might not meet the industry standard, so we recommend you use Maya's GVB (Geodesic Voxel Binding) function.
 
 ## Reference
