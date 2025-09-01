@@ -6,7 +6,8 @@ sh run_tarig.sh
 <img src="img/predicted.PNG" alt="image" width="300"/>
 
 Please email to us if you need the annotated dataset of TARig.
-
+## Dataset
+Please fill in the [google form](https://docs.google.com/forms/d/e/1FAIpQLSdXnHb0H8gfwW_9iahtbjXzg936r-3pwqxNWgNDFdC82iGhOA/viewform?usp=sharing&ouid=101682146635865440362) to apply the dataset.
 ## Recommended workflow
 1. Get a 3D character from 3DGen such as [CLAY](https://github.com/CLAY-3D/OpenCLAY) or 3D Asset Website such as [Mixamo](https://www.mixamo.com/)
 
